@@ -1,7 +1,6 @@
 # cloud-labs
 hands-on labs with AWS, Azure and Google cloud
-It covers AWS IAM, Google Cloud VM/Web Server labs, and Azure generalized VM creation & deployment — written in a way that makes you look organized and job‑ready.
-You can paste this directly into your GitHub repo.
+It covers AWS IAM, Google Cloud VM/Web Server labs, and Azure generalized VM creation & deployment
 
 ☁️ Cloud Labs Portfolio
 Hands‑on cloud security and infrastructure labs completed across AWS, Google Cloud Platform (GCP), and Microsoft Azure.
